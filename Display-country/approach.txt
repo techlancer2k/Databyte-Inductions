@@ -1,0 +1,4 @@
+Approach
+1.Read the csv data as python dictionary using python csv module
+2.Sorted the list of dictionaries based on country name using 'sorted lambda' functionality in python
+3.Finally traverses over the sorted list of dictionary and prints the countries falling under the given country code range using conditional statements sequentially
